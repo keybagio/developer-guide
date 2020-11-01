@@ -12,7 +12,7 @@ https://eips.ethereum.org/
 - ETH JSON-RPC [文档地址](https://eth.wiki/json-rpc/API)
 
 ### 开发工具
-- web3js - Ethereum JavaScript API [Github地址](https://github.com/ethereum/web3.js) [文档地址](https://web3js.readthedocs.io/) 
+- web3js - Ethereum JavaScript API [Github地址](https://github.com/ethereum/web3.js) [文档地址(最新版)](https://web3js.readthedocs.io/) [文档地址(v0.20.x)](https://learnblockchain.cn/docs/web3js-0.2x/)
 - web3-react - Ethereum dApps 开发框架 [Github地址](https://github.com/NoahZinsmeister/web3-react)
 
 ### 资讯网站
