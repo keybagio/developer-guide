@@ -3,7 +3,7 @@
 
 ## 以太坊
 ### 区块浏览器
-https://eips.ethereum.org/
+- [Etherscan](https://etherscan.io/)
 
 ### 钱包
 - MetaMask - 常用以太坊钱包 [Github地址](https://github.com/MetaMask) [文档地址](https://docs.metamask.io/guide/)
