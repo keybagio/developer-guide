@@ -1,6 +1,11 @@
 # 开发者指引
 本文收集整理了区块链开发中开发者常用的区块浏览器、开发文档、开发工具、资讯网站，建议区块链开发者可以收藏以便日后查阅。
 
+## 比特币
+### 区块浏览器
+- Blockchain.com [Bitcoin主网](https://www.blockchain.com/explorer)
+- blockcypher [Bitcoin主网](https://live.blockcypher.com/btc/) [Testnet](https://live.blockcypher.com/btc-testnet)
+
 ## 以太坊
 ### 区块浏览器
 - [Etherscan](https://etherscan.io/)
