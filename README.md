@@ -6,6 +6,9 @@
 - Blockchain.com [Bitcoin主网](https://www.blockchain.com/explorer)
 - blockcypher [Bitcoin主网](https://live.blockcypher.com/btc/) [Testnet](https://live.blockcypher.com/btc-testnet)
 
+### 开发文档
+- BTC JSON-RPC [文档地址](https://developer.bitcoin.org/reference/rpc/index.html)
+
 ### 开发工具
 - BTC-Testnet 交易广播工具 [网址](https://live.blockcypher.com/btc-testnet/pushtx/)
 
