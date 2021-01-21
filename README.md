@@ -33,3 +33,10 @@
 
 ### 资讯网站
 - [以太坊改进建议 Ethereum Improvement Proposals](https://eips.ethereum.org/)
+
+## 波卡
+### 区块浏览器
+- Subscan [Polkadot主网](https://polkadot.subscan.io/)
+
+### 基金申请
+- [General-Grants](https://github.com/w3f/General-Grants-Program)
