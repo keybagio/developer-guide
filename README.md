@@ -39,4 +39,4 @@
 - Subscan [Polkadot主网](https://polkadot.subscan.io/)
 
 ### 基金申请
-- [General-Grants](https://github.com/w3f/General-Grants-Program)
+- [General Grants](https://github.com/w3f/General-Grants-Program)
