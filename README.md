@@ -8,7 +8,7 @@
 
 ### 开发文档
 - BTC JSON-RPC [文档地址](https://developer.bitcoin.org/reference/rpc/index.html)
-- 《精通比特币（第二版）》[在线阅读]（http://v1.8btc.com/books/834/masterbitcoin2cn/_book/glossary.html）
+- 《精通比特币（第二版）》[在线阅读](http://v1.8btc.com/books/834/masterbitcoin2cn/_book/glossary.html)
 
 ### 开发工具
 - BTC-Testnet 交易广播工具 [网址](https://live.blockcypher.com/btc-testnet/pushtx/)
