@@ -41,3 +41,8 @@
 
 ### 基金申请
 - [General Grants](https://github.com/w3f/General-Grants-Program)
+
+### 资讯网站
+- [波卡Wiki](https://wiki.polkadot.network/zh-CN/)
+- [波卡区块链开发指南](http://boka.network/)
+
