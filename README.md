@@ -43,6 +43,7 @@
 - polkadot{.js} [文档地址](https://polkadot.js.org/docs/)
 
 ### 基金申请
+- [Open Grants Program](https://github.com/w3f/Open-Grants-Program/blob/master/README_CN.md)
 - [General Grants](https://github.com/w3f/General-Grants-Program)
 
 ### 资讯网站
